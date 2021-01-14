@@ -1,88 +1,101 @@
 team_members:
-  - name: "Lizette Labee"
-    img_src: "/img/Lizette%20Labee-756x756.jpg"
+  - name: Lizette Labee
+    img_src: /img/Lizette%20Labee-756x756.jpg
     behandlungsschwerpunkte:
-      - "Behandlung von schwerstmehrfach behinderten Menschen in den Werkstätten der Lebenshilfe"
-      - "Neurophysiologische Behandlung nach Bobath nach Schlaganfall und anderen neurologischen Erkrankungen"
-      - "Behandlung von entwicklungsverzögerten Kindern"
-      - "Behandlung von Kindern mit Aufmerksamkeitsdefiziten"
+      - Behandlung von schwerstmehrfach behinderten Menschen in den Werkstätten der Lebenshilfe
+      - Neurophysiologische Behandlung nach Bobath nach Schlaganfall und anderen neurologischen Erkrankungen
+      - Behandlung von entwicklungsverzögerten Kindern
+      - Behandlung von Kindern mit Aufmerksamkeitsdefiziten
     zusatzqualifikationen:
-      - "Behandlung nach dem Bobath-Konzept"
-      - "Behandlung nach dem Affolter-Konzept"
-      - "Behandlung nach dem Perfetti-Konzept"
-      - "Medi-Akupress®-Grundkurs"
-      - "Muskelhypotonie im Säuglings- und Kindesalter erkennen und neurophysiologisch behandeln"
-      - "Schulkinder mit Aufmerksamkeitsstörungen (Diagnostik/Training/Beratung)"
-  - name: "Anke Smeets"
-    img_src: "/img/Anke%20Smeets-756x756.jpg"
+      - Behandlung nach dem Bobath-Konzept
+      - Behandlung nach dem Affolter-Konzept
+      - Behandlung nach dem Perfetti-Konzept
+      - Medi-Akupress®-Grundkurs
+      - Muskelhypotonie im Säuglings- und Kindesalter erkennen und neurophysiologisch behandeln
+      - Schulkinder mit Aufmerksamkeitsstörungen (Diagnostik/Training/Beratung)
+  - name: Anke Smeets
+    img_src: /img/Anke%20Smeets-756x756.jpg
     behandlungsschwerpunkte:
-      - "Behandlung von Menschen mit Demenz in jedem Stadium"
-      - "Behandlung umschriebener Entwicklungsstörungen motorischer Funktionen (UEMF)"
-      - "Behandlung von Kindern mit Muskelhypotonie"
-      - "Behandlung von Konzentrations- und Aufmerksamkeitsstörungen"
-      - "Graphomotorisches Training"
+      - Behandlung von Menschen mit Demenz in jedem Stadium
+      - Behandlung umschriebener Entwicklungsstörungen motorischer Funktionen (UEMF)
+      - Behandlung von Kindern mit Muskelhypotonie
+      - Behandlung von Konzentrations- und Aufmerksamkeitsstörungen
+      - Graphomotorisches Training
     zusatzqualifikationen:
-      - "Fachergotherapeutin für Demenz"
-      - "Testung groß-und feinmotorischer Koordination (Movement ABC-2)"
-      - "Konzentrationsstörungen im Vorschul- und Schulalter"
-      - "Muskelhypotonie im Säuglings- und Kindesalter erkennen und neurophysiologisch behandeln"
-  - name: "Anita Kretschmer"
-    img_src: "/img/Anita%20Kretschmer-756x756.jpg"
+      - Fachergotherapeutin für Demenz
+      - Testung groß-und feinmotorischer Koordination (Movement ABC-2)
+      - Konzentrationsstörungen im Vorschul- und Schulalter
+      - Muskelhypotonie im Säuglings- und Kindesalter erkennen und neurophysiologisch behandeln
+  - name: Anita Kretschmer
+    img_src: /img/Anita%20Kretschmer-756x756.jpg
     behandlungsschwerpunkte:
-      - "Neurophysiologische Behandlung nach Bobath bei Schlaganfall, Morbus Parkinson, Schädelhirntrauma, Koma u.a."
-      - "Medizinisches Tapen (als Privatleistung)"
-      - "Fascientherapie (als Privatleistung)"
+      - Neurophysiologische Behandlung nach Bobath bei Schlaganfall, Morbus Parkinson, Schädelhirntrauma, Koma u.a.
+      - Medizinisches Tapen (als Privatleistung)
+      - Fascientherapie (als Privatleistung)
     zusatzqualifikationen:
-      - "Behandlung nach dem Bobath-Konzept"
-      - "Behandlung nach dem Affolter-Konzept"
-      - "Behandlung nach dem Perfetti-Konzept"
-      - "Medizinisches Tapen"
-      - "Grund- und Aufbauseminar manuelle Fascien-Therapie / neuromuskuläre Tiefengewebsmassage"
-      - "F.O.T.T."
-      - "Marte Meo"
-  - name: "Ina Kristin Pöckel"
-    img_src: "/img/Ina%20Poeckel-756x756.jpg"
+      - Behandlung nach dem Bobath-Konzept
+      - Behandlung nach dem Affolter-Konzept
+      - Behandlung nach dem Perfetti-Konzept
+      - Medizinisches Tapen
+      - Grund- und Aufbauseminar manuelle Fascien-Therapie / neuromuskuläre Tiefengewebsmassage
+      - F.O.T.T.
+      - Marte Meo
+  - name: Ina Kristin Pöckel
+    img_src: /img/Ina%20Poeckel-756x756.jpg
     behandlungsschwerpunkte:
-      - "Behandlung von schwerstmehrfachbehinderten Menschen In den Werkstätten der Lebenshilfe"
+      - Behandlung von schwerstmehrfachbehinderten Menschen In den Werkstätten der Lebenshilfe
       - name: "Behandlung von Kindern bei:"
         children:
-          - "Entwicklungs- und Verhaltensstörungen"
-          - "Lernproblemen und Aufmerksamkeitsdefiziten"
-          - "Graphomotorischen Störungen"
-          - "Fein- und großmotorische Koordinationsstörungen"
-          - "Intensive Eltern- und Bezugspersonenberatung (Marte Meo)"
+          - Entwicklungs- und Verhaltensstörungen
+          - Lernproblemen und Aufmerksamkeitsdefiziten
+          - Graphomotorischen Störungen
+          - Fein- und großmotorische Koordinationsstörungen
+          - Intensive Eltern- und Bezugspersonenberatung (Marte Meo)
     zusatzqualifikationen:
-      - "Marte Meo Practitioner"
-      - "Handrehabilitation"
-  - name: "Julia Elsässer"
-    img_src: "/img/Julia%20Elsaesser-756x756.jpg"
+      - Marte Meo Practitioner
+      - Handrehabilitation
+  - name: Julia Elsässer
+    img_src: /img/Julia%20Elsaesser-756x756.jpg
     behandlungsschwerpunkte:
-      - "Behandlung von Menschen mit Demenz und anderen Erkrankungen die u.a. die Gedächtnisleistung beeinflussen"
-      - "Behandlung von psychischen Erkrankungen (z.B. Depression)"
-      - "Gruppenangebote für Senioren in den Bereichen Gymnastik, kognitives Training und Feinmotorik"
+      - Behandlung von Menschen mit Demenz und anderen Erkrankungen die u.a. die Gedächtnisleistung beeinflussen
+      - Behandlung von psychischen Erkrankungen (z.B. Depression)
+      - Gruppenangebote für Senioren in den Bereichen Gymnastik, kognitives Training und Feinmotorik
       - name: "Behandlung von Kindern bei:"
         children:
-          - "Entwicklungsverzögerungen"
-          - "Lernproblemen und Aufmerksamkeitsstörungen"
-          - "Graphomotorisches Training"
-          - "Elternberatung"
-          - "Konzentrationstraining in Kleingruppen"
-          - "Behandlung von schwermehrfachbehinderten Kindern, basale Stimulation"
+          - Entwicklungsverzögerungen
+          - Lernproblemen und Aufmerksamkeitsstörungen
+          - Graphomotorisches Training
+          - Elternberatung
+          - Konzentrationstraining in Kleingruppen
+          - Behandlung von schwermehrfachbehinderten Kindern, basale Stimulation
     zusatzqualifikationen:
-      - "Grundkurs Sensorische Integration"
-      - "Ergotherapie bei Demenzerkrankungen"
-      - "ADHS in der therapeutischen Praxis"
-      - "Entspannungstechniken für Kinder"
-      - "Muskelhypotonie im Säuglings- und Kindesalter erkennen und neurophysiologisch behandeln"
-  - name: "Stefanie Kälber"
-    img_src: "/img/Stefanie.jpg"
+      - Grundkurs Sensorische Integration
+      - Ergotherapie bei Demenzerkrankungen
+      - ADHS in der therapeutischen Praxis
+      - Entspannungstechniken für Kinder
+      - Muskelhypotonie im Säuglings- und Kindesalter erkennen und neurophysiologisch behandeln
+  - name: Marit Becher
+    img_src: /img/Marit-Becher.jpg
     behandlungsschwerpunkte:
-      - "Klientenzentrierte und handlungsorientierte Befunderhebung und Behandlung für Kinder und Jugendliche mit rheumatischen Erkrankungen, neurologischen Erkrankungen, UEMF (CO-OP-Ansatz), Schul-/Lernproblemen und Verhaltensauffälligkeiten"
-      - "Erwachsene mit Beeinträchtigungen im neurologischen und psychiatrischen Bereich"
-      - "Neurologische Arm-Handrehabilitation (Spiegeltherapie, CIMT)"
-      - "Angehörigen-/Elternberatung, Hilfsmittelberatung (z.B. barrierefreie Umgestaltung des Wohnbereiches, Rollstuhlanpassung), ergonomische Beratung (z.B. Gelenkschutz im Alltag, Arbeitsplatzgestaltung, optimales Handling pflegender Angehörige bei der Versorgung ihres erkrankten Familienmitgliedes)"
+      - Behandlung neurologischer Erkrankungen bei Erwachsenen
+      - Handrehabilitation
+      - Behandlung von Demenzerkrankung / Gedächtnistraining
+      - name: "Behandlung von Kindern bei:"
+        children:
+          - Aufmerksamkeitsstörungen
+          - Hörverarbeitung und auditive Wahrnehmung
+          - Grafomotorischen Störungen
+          - Teilleistungsstörungen
     zusatzqualifikationen:
-      - "handlungsorientiert: Affolter-Modell®, AOT (Alltagsorientierte Therapie), HoDT® (Handlungsorientierte Diagnostik und Therapie),  CO-OP-Ansatz (Cognitive Orientation to daily Occupational Performance), CMOP (Kanadisches Modell der Betätigungsperformanz)"
-      - "neurophysiologisch-basiert: Bobath, PNF (Propriozeptive Neuromuskuläre Fazilitation) in der Ergotherapie, Kinästhetics® in der Pflege, LiN - Lagerung in Neutralstellung® Basale Stimulation®, Neurorehabilitation bei Multipler Sklerose"
-      - "neuropsychologisch-basiert: Neurotraining nach V. Schweizer, Gedächtnisstörungen nach Hirnschädigung: Grundlagen, Diagnostik, Therapie (Dr. Uwe Schuri)"
-      - "kreativ-therapeutisch: kreative Musiktherapie, Rhythmus-Pädagogik"
+      - Neurophysiologische Behandlung bei Erwachsenen, Schwerpunkt Hemiplegie
+      - Spiegeltherapie
+      - Sensorische Integrationstherapie Grundkurs
+      - Diagnostik und Therapie der Hörverarbeitung und Wahrnehmung
+      - Demenzen – Verstehen und Behandeln
+      - Handrehabilitation
+      - Testung groß- und feinmotorischer Koordination (Movement ABC-2)
+      - Behandlung und Beratung von Patienten mit schulischer Teilleistungsstörung
+      - Psychosoziale und emotionale Kompetenzen für den Schulalltag
+      - ADHS in der therapeutischen Praxis
+      - Entwicklung der Schreibkompetenz für Vor- und Grundschüler
+      - „ATTENTIONER“, Training für Kinder mit Aufmerksamkeitsstörungen
