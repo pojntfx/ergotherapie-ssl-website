@@ -1,15 +1,27 @@
 <head>
-  <meta content="text/html; charset=UTF-8" http-equiv="Content-Type">
-  <meta charset="utf-8">
-  <meta content="width=device-width, initial-scale=1, shrink-to-fit=no" name="viewport">
+  <meta content="text/html; charset=UTF-8" http-equiv="Content-Type" />
+  <meta charset="utf-8" />
+  <meta
+    content="width=device-width, initial-scale=1, shrink-to-fit=no"
+    name="viewport"
+  />
   <title>{{ page.title }} | {{ site.title }}</title>
-  <link rel="icon" href="/img/icons/favicon.ico">
-  <meta name="description" content="{{ site.description }}">
-  <meta name="keywords" content="{% for keyword in site.keywords %}{{ keyword }},{% endfor %}">
-  <meta name="author" content="{{ site.author }}">
-  <meta name="theme-color" content="#d3292d">
-  <link href="/css/index.css" rel="stylesheet">
-  <link rel="manifest" href="/manifest.json">
+  <link rel="icon" href="/img/icons/favicon.ico" />
+  <meta name="description" content="{{ site.description }}" />
+  <meta
+    name="keywords"
+    content="{% for keyword in site.keywords %}{{ keyword }},{% endfor %}"
+  />
+  <meta name="author" content="{{ site.author }}" />
+  <meta name="theme-color" content="#d3292d" />
+  <link href="/css/index.css" rel="stylesheet" />
+  <link rel="manifest" href="/manifest.json" />
+  <!-- GDPR -->
+  <link
+    rel="stylesheet"
+    type="text/css"
+    href="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.css"
+  />
   {% if include.is_home %}
   <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
   {% endif %}
