@@ -99,3 +99,23 @@ team_members:
       - ADHS in der therapeutischen Praxis
       - Entwicklung der Schreibkompetenz für Vor- und Grundschüler
       - „ATTENTIONER“, Training für Kinder mit Aufmerksamkeitsstörungen
+  - name: Sonja Hörr
+    img_src: /img/Sonja-Hoerr.jpg
+    behandlungsschwerpunkte:
+      - Behandlung von Menschen mit neurologischen Erkrankungen
+      - Hirnleistungstraining bei Menschen mit Demenz und Problemen mit der Konzentrations- und Gedächtnisleistung
+      - Handrehabilitation
+      - name: "Behandlung von Kindern mit:"
+        children:
+          - Entwicklungsverzögerungen und Teilleistungsstörungen
+          - Konzentrations- und Aufmerksamkeitsdefiziten
+          - graphomotorischen Störungen
+          - Elternberatung
+    zusatzqualifikationen:
+      - Neuropsychologische Diagnostik und Training bei neurologischen Erkrankungen
+      - Funktionelles Alltagstraining, Schwerpunkt „Hemiplegie“
+      - Ergotherapie bei Demenzerkrankungen
+      - Grundzüge der Kommunikationspsychologie, Schwerpunkt Elternberatung
+      - Diagnostik, Training, Beratung von Schulkindern mit Aufmerksamkeitsstörungen
+      - Fit für die Schule
+      - Diagnostik, Therapie und Beratung in der therapeutischen Praxis bei Kindern mit LRS
